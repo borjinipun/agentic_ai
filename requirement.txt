@@ -1,0 +1,4 @@
+agno
+duckduckgo-search
+ddgs
+yfinance
