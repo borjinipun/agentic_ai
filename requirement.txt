@@ -2,3 +2,9 @@ agno
 duckduckgo-search
 ddgs
 yfinance
+langchain
+langchain_community
+langchain_openai
+langchain_groq
+python_dotenv
+langchain_google_genai
